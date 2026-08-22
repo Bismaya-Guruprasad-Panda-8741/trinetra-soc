@@ -522,4 +522,9 @@ This project is released under the MIT License.
 See <a href="[https://www.w3schools.com](https://github.com/Bismaya-Guruprasad-Panda-8741/trinetra-soc/blob/main/LICENSE)"> `LICENSE` </a>for details.
 
 ```
+MIT License
+
+Copyright (c) 2026 Bismaya Guruprasad Panda
+
+Permission is hereby granted......
 ```
