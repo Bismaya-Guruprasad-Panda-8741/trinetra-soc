@@ -444,7 +444,7 @@ trinetra-soc/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/trinetra-soc.git
+git clone https://github.com/Bismaya-Guruprasad-Panda-8741/trinetra-soc.git
 ```
 
 ```bash
