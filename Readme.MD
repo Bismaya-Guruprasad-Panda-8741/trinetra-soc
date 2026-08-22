@@ -525,5 +525,5 @@ MIT License
 
 Copyright (c) 2026 Bismaya Guruprasad Panda
 
-Permission is hereby granted, ............ 
+Permission is hereby granted............ 
 ```
